@@ -1,0 +1,1 @@
+use this folder for vendor scripts not available in bower

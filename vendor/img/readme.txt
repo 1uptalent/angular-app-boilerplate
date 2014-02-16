@@ -1,0 +1,1 @@
+use this folder for vendor images not available in bower

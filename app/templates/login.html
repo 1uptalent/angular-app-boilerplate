@@ -1,0 +1,26 @@
+<div id="login">
+  <form ng-submit="login()" class="form-horizontal" role="form">
+    <fieldset>
+    <div class="form-group">
+      <label for="username" class="col-sm-2 control-label">Username</label>
+      <div class="col-sm-10">
+        <input type="text" name="username" placeholder="username" ng-model="credentials.username" required class="form-control"/>
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="password" class="col-sm-2 control-label">Password</label>
+      <div class="col-sm-10">
+        <input type="password" name="password" placeholder="password" ng-model="credentials.password" required class="form-control"/>
+      </div>
+    </div>
+    <div class="form-group">
+      <div class="col-sm-offset-2 col-sm-10">
+        <button id="log-in" type="submit" class="btn btn-primary">
+          <span class="glyphicon glyphicon-ok"></span>
+          Log In
+        </button>
+      </div>
+    </div>
+  </fieldset>
+  </form>
+</div>

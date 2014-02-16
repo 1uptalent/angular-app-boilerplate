@@ -1,0 +1,19 @@
+<div id="home" class="row">
+  <h2>Welcome to the {{ title }} page!</h2>
+
+  <div class="alert alert-info">{{ message }}</div>
+
+  <ul class="list-group">
+    <li class="list-group-item">
+      <img class="img-responsive img-thumbnail" src="img/demo1.jpg" shows-message-when-hovered message="Im the first house.">
+    </li>
+    <li>
+      <img class="img-responsive img-thumbnail" src="img/demo2.jpg" shows-message-when-hovered message="Im the second house.">
+    </li class="list-group-item">
+  </ul>
+
+  <button ng-click="logout()" class="button large expand radius">
+    <span class="glyphicon glyphicon-remove"></span>
+    Log Out
+  </button>
+</div>
