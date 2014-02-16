@@ -1,6 +1,5 @@
 # A Lineman JS boilerplater
 
-[![Build Status](https://travis-ci.org/linemanjs/lineman-angular-template.png?branch=master)](https://travis-ci.org/linemanjs/lineman-angular-template)
 
 This is a project template for Angular JS applications using [Lineman](http://www.linemanjs.com).
 
