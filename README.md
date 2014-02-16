@@ -1,7 +1,7 @@
 # A Lineman JS boilerplater
 
 
-This is a project template for Angular JS applications using [Lineman](http://www.linemanjs.com).
+This is a project template for Angular JS applications using [Lineman](http://www.linemanjs.com) and [Lineman JS Template using Angular](https://github.com/linemanjs/lineman-angular-template).
 
 It includes the following features:
 
